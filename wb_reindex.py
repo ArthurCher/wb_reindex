@@ -7,7 +7,7 @@ import os
 
 class Reindex():
 
-    headers = {'Authorization': 'OAuth AgAAAAAszdoSAAbdhMvpGWrx40BspYYiZm7Km6c'}
+    headers = {'Authorization': 'OAuth AQAAAAAouK-mAAc4QjstVf-IcUCKmuaQ9E9v_sk'}
 
     def __init__(self):
         self.start()
